@@ -29,7 +29,7 @@ import randomaka
 
 ---
 
-## **Functions in RandomAK**  
+## **Functions in RandomAKA**  
 
 ### **1. Generating Random Lists**  
 
